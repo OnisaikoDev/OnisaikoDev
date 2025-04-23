@@ -29,7 +29,7 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikopDev&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=radical" />
 </div>
 
 ---
