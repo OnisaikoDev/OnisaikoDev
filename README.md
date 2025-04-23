@@ -1,32 +1,41 @@
-<h1 align="center">⚡️ Bem-vindo ao meu domíno digital ⚡️</h1>
+<h1 align="center">🩸 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤𝘿𝙚𝙫 🗡️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FF00F7&center=true&vCenter=true&width=600&lines=Front-End+Dev+em+evolução;Codificando+no+modo+neon;Hackeando+o+layout+da+Matrix" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF0055&center=true&vCenter=true&width=600&lines=Front-End+Ronin+em+Missão;Codificando+com+honra+e+caos;HTML%2C+CSS+%2B+JavaScript+em+treinamento" />
 </p>
 
 ---
 
-### 🧬 Sobre Mim
+### 👹 Quem sou eu?
 
-> 🧠 Codificador em formação, forjando habilidades com **HTML**, **CSS** e **JavaScript** nas profundezas da rede.  
-> 🌌 Em busca da minha primeira missão no front-end.  
-> 🛰️ Preparado para missões remotas, com base móvel 💻  
-> 🔮 Interface e experiência de usuário são meu playground visual.
+> 🧠 Sou o Matheus — também conhecido como **OnisaikoDev**.  
+> 💻 Desenvolvedor front-end em jornada solitária pelas linhas do código.  
+> 👺 Metade humano, metade Oni. Domínio do **HTML** e **CSS**, enquanto domo o **JavaScript** sob as luzes neon.  
+> 🌌 Buscando minha primeira batalha no mundo dev.  
+> 🛰️ Pronto para missões remotas ou presenciais, sempre com disciplina e estilo.
 
 ---
 
-### 🛠️ Tecnologias Atuais
+### ⚔️ Tecnologias no meu Arsenal
 
-```bash
-💾 Ferramentas de Guerra:
+🔧 Armas:
 - HTML5
 - CSS3
-- JavaScript (em upgrade constante)
-- Git / GitHub
-- VS Code (theme: Synthwave 84 🌈)
+- JavaScript (em treino contínuo)
+- Git e GitHub
+- VS Code com tema Synthwave 84
 
-<div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=00f9ff" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=tokyonight&title_color=ff00ff" /> </div>
+### 📊 Status de Poder
+<div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=radical&title_color=ff0055&icon_color=ff0055" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=radical&title_color=ff0055" /> </div>
 
-👾 GitHub: @OnisaikoDev
-📨 Email: matheusd.rosa00@gmail.com
-🧠 Portfólio: em construção... sob luz neon
+🧭 Contato e Conexões
+📬 Email: matheusd.rosa00@gmail.com
+🧠 LinkedIn: em construção... ou escondido nas sombras
+🐲 Portfólio: em breve… sob a lua vermelha 🌕
+
+🩸 "Código é honra. Layout é presença. E estilo... é tudo."
+– 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤
+
+<p align="center">
+  <img src="LINK_DA_IMAGEM_AQUI" alt="Banner Oni Cyberpunk">
+</p>
