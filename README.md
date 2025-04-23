@@ -37,5 +37,5 @@
 – 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤
 
 <p align="center">
-  <img src="LINK_DA_IMAGEM_AQUI" alt="Banner Oni Cyberpunk">
+  <img src="https://github.com/OnisaikoDev/OnisaikoDev/blob/main/Oni_Cyberpunk_Banner.png" alt="Banner Oni Cyberpunk">
 </p>
