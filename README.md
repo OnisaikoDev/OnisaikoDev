@@ -1,36 +1,39 @@
-<h1 align="center">🩸 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤𝘿𝙚𝙫 🗡️</h1>
+<h1 align="center">Olá! Eu sou o João 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FF0055&center=true&vCenter=true&width=600&lines=Front-End+Ronin+em+Missão;Codificando+com+honra+e+caos;HTML%2C+CSS+%2B+JavaScript+em+treinamento" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desenvolvedor+Front-End+em+evolução;Apaixonado+por+tecnologia;Focado+em+HTML%2C+CSS+e+JavaScript" />
 </p>
 
 ---
 
-### 👹 Quem sou eu?
+### 🚀 Sobre mim
 
-> 🧠 Sou o Matheus — também conhecido como **OnisaikoDev**.  
-> 💻 Desenvolvedor front-end em jornada solitária pelas linhas do código.  
-> 👺 Metade humano, metade Oni. Domínio do **HTML** e **CSS**, enquanto domo o **JavaScript**.  
-> 🌌 Buscando minha primeira batalha no mundo dev.  
-> 🛰️ Pronto para missões remotas ou presenciais, sempre com disciplina e estilo.
+- 🌱 Atualmente estudando **JavaScript**
+- 🧠 Conhecimentos em **HTML** e **CSS**
+- 🔍 Buscando minha primeira oportunidade como Desenvolvedor Front-End
+- 💻 Foco em criar interfaces responsivas e funcionais
+- 🎯 Objetivo: trabalhar com desenvolvimento web e crescer na área de tecnologia
 
 ---
 
-### ⚔️ Tecnologias no meu Arsenal
+### 🛠️ Tecnologias que estou usando
 
-🔧 Armas:
-- HTML5
-- CSS3
-- JavaScript (em treino contínuo)
-- Git e GitHub
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📊 Status de Poder
-<div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=radical&title_color=ff0055&icon_color=ff0055" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=radical&title_color=ff0055" /> </div>
+---
 
-🧭 Contato e Conexões
-📬 Email: matheusd.rosa00@gmail.com
-🧠 LinkedIn: em construção... ou escondido nas sombras
-🐲 Portfólio: em breve… sob a lua vermelha 🌕
+### 📊 GitHub Stats
 
-🩸 "Código é honra. Layout é presença. E estilo... é tudo."
-– 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📫 Contato
+
+- 📧 Email: seuemail@email.com
