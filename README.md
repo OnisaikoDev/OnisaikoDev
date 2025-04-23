@@ -10,7 +10,7 @@
 
 > 🧠 Sou o Matheus — também conhecido como **OnisaikoDev**.  
 > 💻 Desenvolvedor front-end em jornada solitária pelas linhas do código.  
-> 👺 Metade humano, metade Oni. Domínio do **HTML** e **CSS**, enquanto domo o **JavaScript** sob as luzes neon.  
+> 👺 Metade humano, metade Oni. Domínio do **HTML** e **CSS**, enquanto domo o **JavaScript**.  
 > 🌌 Buscando minha primeira batalha no mundo dev.  
 > 🛰️ Pronto para missões remotas ou presenciais, sempre com disciplina e estilo.
 
@@ -23,7 +23,6 @@
 - CSS3
 - JavaScript (em treino contínuo)
 - Git e GitHub
-- VS Code com tema Synthwave 84
 
 ### 📊 Status de Poder
 <div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=radical&title_color=ff0055&icon_color=ff0055" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=radical&title_color=ff0055" /> </div>
@@ -34,8 +33,4 @@
 🐲 Portfólio: em breve… sob a lua vermelha 🌕
 
 🩸 "Código é honra. Layout é presença. E estilo... é tudo."
-– 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤
-
-<p align="center">
-  <img src="https://github.com/OnisaikoDev/OnisaikoDev/blob/main/Oni_Cyberpunk_Banner.png" alt="Banner Oni Cyberpunk">
-</p>
+– 𝙊𝙣𝙞𝙨𝙖𝙞𝙠𝙤>
