@@ -36,7 +36,7 @@
 | Projeto | Tecnologias | Link |
 |--------|--------------|------|
 | 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/projeto-1) |
-| 🎮 **Lista de contato comum** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contatos-1.0) |
+| 🎮 **Lista de contato comum** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contato-1.0) |
 | 🔧 **Portfolio Pessoal** | Em construção | *Em breve...* |
 
 ---
