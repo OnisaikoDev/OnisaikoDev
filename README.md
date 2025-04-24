@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFkendoODh0OTNqejlycTdyZDhwejQ1dGx1dmZyZXJmcnFmYTd1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" height="500" alt="Oni Avatar"/>
+  <iframe src="https://giphy.com/embed/MD0svLSDeudszrNrp0" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-MD0svLSDeudszrNrp0">via GIPHY</a></p>
 </p>
 
 ---
