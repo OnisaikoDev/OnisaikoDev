@@ -34,7 +34,8 @@
 
 ## 🕹️ Projeto em Destaque
 
-[![Neon Oni](https://img.shields.io/badge/👹_Neon_Oni_Website-Online-00ffcc?style=for-the-badge&logo=vercel)](https://github.com/OnisaikoDev/neon-oni-site)
+[![Neon Oni](https://img.shields.io/badge/鬼-Oni_Site_Legendary-ff0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnisaikoDev/neon-oni-site)
+
 
 > Um site com tema Oni e animações futuristas que mostra todo o potencial criativo em HTML/CSS/JS.  
 > **Explore com som, animações e vibe de game!**
