@@ -35,7 +35,7 @@
 
 | Projeto | Tecnologias | Link |
 |--------|--------------|------|
-| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/landing-page) |
+| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/projeto-1) |
 | 🎮 **Calculadora com JS** | HTML + CSS + JavaScript | [Ver no GitHub](https://github.com/OnisaikoDev/calculadora-js) |
 | 🔧 **Portfolio Pessoal** | Em construção | *Em breve...* |
 
