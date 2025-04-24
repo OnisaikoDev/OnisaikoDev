@@ -3,8 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=OnisaikoDev+-+Cyber+Dev;Codando+no+limite+da+realidade..." />
 </h1>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/MD0svLSDeudszrNrp0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-MD0svLSDeudszrNrp0">via GIPHY</a></p>
-
+<p align="center">
+  <img src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://giphy.com/gifs/code-ko7twHhomhk8E)" height="200" alt="Oni Avatar"/>
+</p>
 
 ---
 
