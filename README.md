@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="200" alt="Oni Avatar"/>
+  <img src="https://giphy.com/gifs/code-ko7twHhomhk8E" height="200" alt="Oni Avatar"/>
 </p>
 
 ---
