@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFkendoODh0OTNqejlycTdyZDhwejQ1dGx1dmZyZXJmcnFmYTd1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" height="200" alt="Oni Avatar"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFkendoODh0OTNqejlycTdyZDhwejQ1dGx1dmZyZXJmcnFmYTd1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zsqpYMxi6gRrUX2PCB/giphy.gif" height="460" alt="Oni Avatar"/>
 </p>
 
 ---
