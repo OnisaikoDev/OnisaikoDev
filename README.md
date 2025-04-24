@@ -1,62 +1,64 @@
-<h1 align="center">⚡ OnisaikoDev (Matheus)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Em+constante+evolução;Apaixonado+por+programar+e+criar+experiências" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=OnisaikoDev+-+Cyber+Dev;Codando+no+limite+da+realidade..." />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Dev GIF">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="200" alt="Oni Avatar"/>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🧬 Linha do Tempo do Dev
 
-Sou o Matheus, também conhecido como **OnisaikoDev**.  
-Atualmente em formação como **dev front-end**, mergulhado em:
-
-- 🧠 Estudo contínuo de **HTML**, **CSS**, **JavaScript**
-- 🎯 Foco em criação de interfaces limpas, funcionais e responsivas
-- 🔎 Curioso por UI/UX, animações, e performance
-- 🎮 Geek em tempo integral, criador de código nas horas vagas
+```
+[ 2023 ] ──── Iniciei com HTML e CSS
+        ⬇
+[ 2024 ] ──── Mergulhei em JavaScript e GitHub
+        ⬇
+[ 2025 ] ──── Criação de interfaces únicas e interativas
+```
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 📊 Power Level
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+| Habilidade     | Status              |
+|----------------|---------------------|
+| HTML/CSS       | ████████░░ 80%      |
+| JavaScript     | ██████░░░░ 60%      |
+| Git/GitHub     | ██████░░░░ 60%      |
+| Criatividade   | ██████████ 100% ⚡   |
+
+---
+
+## 🕹️ Projeto em Destaque
+
+[![Neon Oni](https://img.shields.io/badge/👹_Neon_Oni_Website-Online-00ffcc?style=for-the-badge&logo=vercel)](https://github.com/OnisaikoDev/neon-oni-site)
+
+> Um site com tema Oni e animações futuristas que mostra todo o potencial criativo em HTML/CSS/JS.  
+> **Explore com som, animações e vibe de game!**
+
+---
+
+## 🧠 Skills Map (clique nos links)
+
+🕸️ [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+🧮 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+🔧 [GitHub](https://github.com/OnisaikoDev)
+
+---
+
+## 💌 Contato Codificado
+
+📧 [matheusd.rosa00@gmail.com](mailto:matheusd.rosa00@gmail.com)  
+🌐 [OnisaikoDev](https://github.com/OnisaikoDev)
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/OnisaikoDev&size=120x120" />
 </p>
 
 ---
 
-### ✨ Projetos em Destaque
-
-| Projeto | Descrição | Stack | Link |
-|--------|-----------|--------|------|
-| 🧪 **Landing Page Neon** | Interface responsiva com tema neon cyberpunk | HTML + CSS | [Ver projeto](https://github.com/OnisaikoDev/landing-page) |
-| ⚡ **Calculadora** | Projeto de lógica básica em JavaScript | HTML + CSS + JS | [Ver projeto](https://github.com/OnisaikoDev/calculadora-js) |
-| 🧰 **Portfolio Pessoal** | Página pessoal com animações | Em construção | 🔜 Em breve
-
----
-
-### 📈 Meu GitHub
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" />
-</div>
-
----
-
-### 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-matheusd.rosa00@gmail.com-00ffcc?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusd.rosa00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-OnisaikoDev-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/OnisaikoDev)
-
----
-
-> 🔮 *"Código não é só lógica — é expressão. E meu teclado é meu pincel."*
+> 💻 *"O código é minha espada, a web é meu campo de batalha."*
