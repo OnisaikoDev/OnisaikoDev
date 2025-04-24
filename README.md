@@ -1,65 +1,60 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=OnisaikoDev+-+Cyber+Dev;Codando+no+limite+da+realidade..." />
-</h1>
+<h1 align="center">👨‍💻 OnisaikoDev (Matheus)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Front-End+em+formação;Amando+HTML,+CSS+e+JavaScript;Explorando+o+mundo+do+código" />
+</p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVwNHJvampzMnEzMzNoMHRoeGVzdmI2MDMzN201ZjEwbHZxazg5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" height="200" alt="Oni Avatar"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
 
-## 🧬 Linha do Tempo do Dev
+### 🧠 Sobre mim
 
-```
-[ 2023 ] ──── Iniciei com HTML e CSS
-        ⬇
-[ 2024 ] ──── Mergulhei em JavaScript e GitHub
-        ⬇
-[ 2025 ] ──── Criação de interfaces únicas e interativas
-```
+- 💻 Desenvolvedor front-end iniciante, em constante aprendizado
+- 🧠 Estudando **HTML**, **CSS** e **JavaScript**
+- 🌱 Em busca da minha primeira oportunidade como dev
+- ⚙️ Foco em UI/UX, responsividade e boas práticas
+- 🧪 Sempre testando, aprendendo e evoluindo
 
 ---
 
-## 📊 Power Level
+### 🛠️ Skills & Ferramentas
 
-| Habilidade     | Status              |
-|----------------|---------------------|
-| HTML/CSS       | ████████░░ 80%      |
-| JavaScript     | ██████░░░░ 60%      |
-| Git/GitHub     | ██████░░░░ 60%      |
-| Criatividade   | ██████████ 100% ⚡   |
-
----
-
-## 🕹️ Projeto em Destaque
-
-[![Neon Oni](https://img.shields.io/badge/鬼-Oni_Site_Legendary-ff0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnisaikoDev/neon-oni-site)
-
-
-> Um site com tema Oni e animações futuristas que mostra todo o potencial criativo em HTML/CSS/JS.  
-> **Explore com som, animações e vibe de game!**
-
----
-
-## 🧠 Skills Map (clique nos links)
-
-🕸️ [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-🧮 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-🔧 [GitHub](https://github.com/OnisaikoDev)
-
----
-
-## 💌 Contato Codificado
-
-📧 [matheusd.rosa00@gmail.com](mailto:matheusd.rosa00@gmail.com)  
-🌐 [OnisaikoDev](https://github.com/OnisaikoDev)
-
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/OnisaikoDev&size=120x120" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-> 💻 *"O código é minha espada, a web é meu campo de batalha."*
+### 🚧 Projetos em Andamento
+
+| Projeto | Tecnologias | Link |
+|--------|--------------|------|
+| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/landing-page) |
+| 🎮 **Calculadora com JS** | HTML + CSS + JavaScript | [Ver no GitHub](https://github.com/OnisaikoDev/calculadora-js) |
+| 🔧 **Portfolio Pessoal** | Em construção | *Em breve...* |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=codeSTACKr&title_color=00ffaa&icon_color=00ffaa" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=codeSTACKr&title_color=00ffaa" />
+</div>
+
+---
+
+### 🌐 Contato
+
+[![Email](https://img.shields.io/badge/Email-Matheusd.rosa00@gmail.com-red?style=flat-square&logo=gmail)](mailto:matheusd.rosa00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-OnisaikoDev-181717?style=flat-square&logo=github)](https://github.com/OnisaikoDev)
+
+---
+
+> 🧩 *"A cada bug resolvido, um novo level desbloqueado."*
