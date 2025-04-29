@@ -35,7 +35,7 @@
 
 | Projeto | Tecnologias | Link |
 |--------|--------------|------|
-| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/projeto-1) |
+| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://onisaikodev.github.io/Dreams/) |
 | 🎮 **Lista de contato comum** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contato-1.0) |
 | 🎮 **Lista de contato email** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contatos-2.0) |
 | 🍃 **Nutrem** | HTML + CSS | [Ver no GitHub](https://onisaikodev.github.io/Nutrem/index.html) |
