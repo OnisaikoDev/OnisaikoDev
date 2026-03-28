@@ -1,55 +1,65 @@
-<h1 align="center">👋 Fala, eu sou o Matheus Daniel</h1>
-
+<!-- BANNER -->
 <p align="center">
-💻 Desenvolvedor Front-End | 🚀 Criando interfaces modernas | 🎯 Em constante evolução
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Matheus%20Daniel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;Construindo+interfaces+modernas;Evoluindo+todos+os+dias"/>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Sou um desenvolvedor focado em **Front-End**, apaixonado por criar interfaces modernas, organizadas e com boa experiência para o usuário.
-
-Atualmente estou evoluindo minhas habilidades através de projetos práticos, construindo uma base sólida em desenvolvimento web.
+💻 Desenvolvedor Front-End focado em criar interfaces modernas, organizadas e eficientes.  
+🎯 Buscando evoluir constantemente através de projetos reais e desafios práticos.  
+⚡ Transformando ideias em experiências digitais.
 
 ---
 
-## 🚀 Tecnologias
+## 🧠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCO-Front--End-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Evoluindo-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📂 Meus Projetos
+## 📂 Projetos
 
-🔗 **Portfólio:**  
-https://onisaikodev.github.io/Portifolio/#projects  
+<p align="center">
+  <a href="https://github.com/OnisaikoDev/lista-de-contato-1.0">📇 Lista de Contatos 1.0</a> •
+  <a href="https://github.com/OnisaikoDev/lista-de-contatos-2.0">📇 Lista de Contatos 2.0</a> •
+  <a href="https://github.com/OnisaikoDev/Dreams">🌙 Dreams</a> •
+  <a href="https://github.com/OnisaikoDev/Nutrem">🥗 Nutrem</a> •
+  <a href="https://github.com/OnisaikoDev/Agendador">📅 Agendador</a>
+</p>
 
-📌 Alguns projetos em destaque:
-
-- 📇 Lista de Contatos 1.0  
-- 📇 Lista de Contatos 2.0  
-- 🌙 Dreams  
-- 🥗 Nutrem  
-- 📅 Sistema de Agendamento  
+<p align="center">
+  🔗 <a href="https://onisaikodev.github.io/Portifolio/#projects">Acessar Portfólio Completo</a>
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Evolução
+## 🔥 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OnisaikoDev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=OnisaikoDev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,23 +68,24 @@ https://onisaikodev.github.io/Portifolio/#projects
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-daniel-4b0767284">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:matheusd.rosa00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Sobre mim (extra)
+## ⚡ Mindset
 
-- 🎯 Focado em crescimento constante  
-- 💡 Interesse em criar soluções reais  
-- 🚀 Em busca da primeira grande oportunidade como dev  
+<p align="center">
+  "Consistência cria evolução. Evolução cria resultado."
+</p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=22&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo...;Evoluindo+um+projeto+por+vez...;Rumo+ao+pr%C3%B3ximo+n%C3%ADvel..." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
