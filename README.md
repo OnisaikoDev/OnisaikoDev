@@ -1,62 +1,80 @@
-<h1 align="center">👨‍💻 OnisaikoDev (Matheus)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Front-End+em+formação;Amando+HTML,+CSS+e+JavaScript;Explorando+o+mundo+do+código" />
-</p>
+<h1 align="center">👋 Fala, eu sou o Matheus Daniel</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+💻 Desenvolvedor Front-End | 🚀 Criando interfaces modernas | 🎯 Em constante evolução
 </p>
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
-- 💻 Desenvolvedor front-end iniciante, em constante aprendizado
-- 🧠 Estudando **HTML**, **CSS** e **JavaScript**
-- 🌱 Em busca da minha primeira oportunidade como dev
-- ⚙️ Foco em UI/UX, responsividade e boas práticas
-- 🧪 Sempre testando, aprendendo e evoluindo
+Sou um desenvolvedor focado em **Front-End**, apaixonado por criar interfaces modernas, organizadas e com boa experiência para o usuário.
+
+Atualmente estou evoluindo minhas habilidades através de projetos práticos, construindo uma base sólida em desenvolvimento web.
 
 ---
 
-### 🛠️ Skills & Ferramentas
+## 🚀 Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-### 🚧 Projetos em Andamento
+## 📂 Meus Projetos
 
-| Projeto | Tecnologias | Link |
-|--------|--------------|------|
-| 🧪 **Landing Page Simples** | HTML + CSS | [Ver no GitHub](https://onisaikodev.github.io/Dreams/) |
-| 🎮 **Lista de contato comum** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contato-1.0) |
-| 🎮 **Lista de contato email** | HTML + CSS | [Ver no GitHub](https://github.com/OnisaikoDev/lista-de-contatos-2.0) |
-| 🍃 **Nutrem** | HTML + CSS | [Ver no GitHub](https://onisaikodev.github.io/Nutrem/index.html) |
-| 🔧 **Portfolio Pessoal** | HTML + CSS + JS | [Ver no GitHub](https://onisaikodev.github.io/Portifolio) |
+🔗 **Portfólio:**  
+https://onisaikodev.github.io/Portifolio/#projects  
 
----
+📌 Alguns projetos em destaque:
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=codeSTACKr&title_color=00ffaa&icon_color=00ffaa" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=codeSTACKr&title_color=00ffaa" />
-</div>
+- 📇 Lista de Contatos 1.0  
+- 📇 Lista de Contatos 2.0  
+- 🌙 Dreams  
+- 🥗 Nutrem  
+- 📅 Sistema de Agendamento  
 
 ---
 
-### 🌐 Contato
+## 📊 Estatísticas
 
-[![Email](https://img.shields.io/badge/Email-Matheusd.rosa00@gmail.com-red?style=flat-square&logo=gmail)](mailto:matheusd.rosa00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-OnisaikoDev-181717?style=flat-square&logo=github)](https://github.com/OnisaikoDev)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OnisaikoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnisaikoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> 🧩 *"A cada bug resolvido, um novo level desbloqueado."*
+## 🔥 Evolução
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OnisaikoDev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-daniel-4b0767284">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:matheusd.rosa00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Sobre mim (extra)
+
+- 🎯 Focado em crescimento constante  
+- 💡 Interesse em criar soluções reais  
+- 🚀 Em busca da primeira grande oportunidade como dev  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=22&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo...;Evoluindo+um+projeto+por+vez...;Rumo+ao+pr%C3%B3ximo+n%C3%ADvel..." />
+</p>
