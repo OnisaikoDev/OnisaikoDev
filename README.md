@@ -21,7 +21,7 @@
 ## 🧠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ux" />
 </p>
 
 <p align="center">
